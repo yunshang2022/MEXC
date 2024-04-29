@@ -1,2 +1,4 @@
 # MEXC
 python_MEXC_exchange
+该文件实现MEXC交易所现货 持仓小于50U的大于5U的币种卖出
+持仓价值小于5U的使用小额替换成MX
